@@ -10,7 +10,7 @@
 
 ## 01 / WHAT I DO
 
-| | |
+| Area | Details |
 | :--- | :--- |
 | 🤖 | **Android Apps** — Nico, a Siri-like personal AI assistant for Android (Kotlin, on-device TTS, voice loop) |
 | 🎙️ | **Discord Bots** — a 24x7 TTS bot that reads voice-channel chat aloud in Hindi + English |
@@ -45,9 +45,11 @@
 
 ## 04 / GITHUB STATS
 
-![Shrehit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrehit-1&show_icons=true&theme=dark)
+<!-- Stats cards hata diye gaye hain — github-readme-stats service 2026-11-08 ko down thi, isliye cards broken dikh rahe the. Service theek hone par neeche wali lines uncomment karke wapas laga lena. -->
+<!-- ![Shrehit's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrehit-1&show_icons=true&theme=dark) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrehit-1&layout=compact&theme=dark) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrehit-1&layout=compact&theme=dark)
+GitHub ka apna contribution graph profile ke neeche dikhta hi hai, to stats ke bina bhi profile complete lagti hai.
 
 ---
 
